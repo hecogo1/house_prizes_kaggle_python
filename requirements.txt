@@ -16,7 +16,9 @@ charset-normalizer==2.1.1
 clyent==1.2.1
 colorama==0.4.5
 constantly==15.1.0
+contourpy==1.0.5
 cssselect==1.1.0
+cycler==0.11.0
 cytoolz==0.11.0
 datashape==0.5.2
 debugpy==1.6.3
@@ -47,9 +49,11 @@ jupyter-core==4.11.1
 jupyter_client==7.3.5
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.3
+kiwisolver==1.4.4
 lightgbm==3.3.2
 lxml==4.9.1
 MarkupSafe==2.1.1
+matplotlib==3.6.0
 matplotlib-inline==0.1.6
 mistune==2.0.4
 mpmath==1.2.1
